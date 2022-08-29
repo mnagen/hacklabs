@@ -1,0 +1,8 @@
+
+
+this is a file created to learn about git 
+
+
+we are creating this filename as gitplay.txt and want add it to the github repository
+
+
